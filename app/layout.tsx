@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Rumbo a la libertad',
   description: 'Contador regresivo para la salida del Sena',
-  generator: 'Daniel Trejos',
+  generator: '',
 }
 
 export default function RootLayout({
