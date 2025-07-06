@@ -1,8 +1,8 @@
 import { CountdownTimer } from "@/components/countdown-timer"
 
 export default function Home() {
-  // Fecha objetivo: 15 de junio de 2025
-  const targetDate = new Date("2025-06-15T00:00:00")
+  // Fecha objetivo: 15 de julio de 2025
+  const targetDate = new Date("2025-07-15T00:00:00")
 
   return (
     <main className="flex flex-col items-center justify-center min-h-screen p-4 bg-gradient-to-br from-purple-500 via-pink-500 to-orange-500">
